@@ -116,9 +116,3 @@ The backend runs on port 8080 by default.
 
 
 
-**Blood Request Form**  
-![Blood Request Form](path/to/blood_request_form.png)
-
-**Reservation Page**  
-![Reservation Page](path/to/reservation_page.png)
-
