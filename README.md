@@ -114,6 +114,7 @@ The backend runs on port 8080 by default.
 - Automated email notifications for eligible donors
 - Updates on confirmed requests, reservations, and system alerts
 
+📽️ **Click on the image below to download or watch the demo video:**
 [![Demo](https://raw.githubusercontent.com/SALimanaim18/BloodConnectApp/main/video_Demo/hero.jpeg)](https://raw.githubusercontent.com/SALimanaim18/BloodConnectApp/main/video_Demo/BloodConnect.mp4)
 
 
